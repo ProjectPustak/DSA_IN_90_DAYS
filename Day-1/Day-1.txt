@@ -1,2 +1,7 @@
 Data Structure and Algorithm in Java
 Day-1
+Today I learn Types of Programming Language
+ ->Procedral
+ ->Finctional
+ ->Object Oriented
+ 
